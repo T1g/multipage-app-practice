@@ -7,7 +7,7 @@ import {
   } from "react-router-dom";
 import Home from './home';
 import TicTacToe from './tictactoe';
-import Minesweeper from './minesweeperredo';
+import Minesweeper from './minesweeper';
 import ColorSort from './colorsort';
 import ConnectFour from './connectfour';
 
